@@ -6,7 +6,7 @@
 
 The goal of is to learn more about Optionals, solidify understanding of the MVC design pattern and learn concept of Classes. 
 
-## What you will create
+## What I created
 
 Created a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have been eating too much or too little. 
 
