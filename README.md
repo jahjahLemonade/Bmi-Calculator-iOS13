@@ -20,3 +20,11 @@ Created a Body Mass Index calculator. Based on the user’s weight and height it
 * Color literals.
 
 
+![](https://media.giphy.com/media/gHKslSi5bD9iUqdsVX/giphy.gif)
+<br/>
+<br/>
+
+![](https://media.giphy.com/media/2filaINHfikTBe6gkn/giphy.gif)
+
+
+
